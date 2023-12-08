@@ -1,6 +1,5 @@
 # Alfred Watermark Adder
 Easily add custom watermarks to your image(s) via File Action.
-[GitHub Page](https://github.com/csjaugustus/alfred-watermark-adder)
 
 ## Installation
 1. You need to have Python installed.
